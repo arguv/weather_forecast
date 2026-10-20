@@ -36,3 +36,6 @@ coverage.xml
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Generated weather data
+/data/
